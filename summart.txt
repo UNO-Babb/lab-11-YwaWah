@@ -1,0 +1,3 @@
+I adjusted the amount of items shopped to a random umber between 5 and 50. 
+Then i changed the new customer arrival time to be between 1 and 10 minutes.
+and i printed out the total shoppers.
